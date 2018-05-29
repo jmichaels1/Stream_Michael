@@ -1,0 +1,3 @@
+TITOL = La DGT revela a qué velocidad se dispara el radar
+DESCRIPCIO = La DGT revela a qué velocidad los radares de velocidad delatan al conductor y procesan la sanción
+AUTOR = EL PERIÓDICO / BARCELONA

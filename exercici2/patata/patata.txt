@@ -1,0 +1,4 @@
+linia 1 del patata.txt
+linia 2 del patata.txt
+linia 3 del patata.txt
+linia 4 del patata.txt
